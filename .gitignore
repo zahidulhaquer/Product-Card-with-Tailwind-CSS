@@ -1,0 +1,8 @@
+# Ignore a single file
+secret.txt
+
+# Ignore a whole folder
+Zz Downloaded Files/
+
+# Ignore all log files
+*.log
