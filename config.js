@@ -9,7 +9,7 @@ tailwind.config = {
 
             fontFamily: {
                 sans: ['Josefin Sans', 'san-serif'],
-                title: ['Playfair Display SC', 'serif'],
+                title: ['Playfair Display SC', 'serif']
             }
         }
     }
